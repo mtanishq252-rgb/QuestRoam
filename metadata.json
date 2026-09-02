@@ -1,0 +1,6 @@
+{
+  "name": "QuestRoam - AI Gamified Travel Companion",
+  "description": "An interactive, gamified travel companion that turns sightseeing into an adventure with quests, XP rewards, badges, AI guides, AR clues, and safety tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
